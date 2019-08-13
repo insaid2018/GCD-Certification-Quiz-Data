@@ -2,7 +2,7 @@
 
 To import data into python
 
-Click on bank.csv
+Click on credit_card.csv
 
 A new webpage will open with option
 
